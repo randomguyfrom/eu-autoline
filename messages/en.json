@@ -1,0 +1,181 @@
+{
+  "nav": {
+    "home": "Home",
+    "cars": "Cars",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "languageLabel": "Language"
+  },
+  "common": {
+    "viewDetails": "View details",
+    "seeAllCars": "See all cars",
+    "contactUs": "Contact us",
+    "from": "From",
+    "backToCars": "Back to cars",
+    "enquire": "Enquire about this car",
+    "learnMore": "Learn more",
+    "featured": "Featured"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "EU Autoline",
+      "titleLead": "Quality cars.",
+      "titleRest": "Imported, prepared and sold with professional care.",
+      "subtitle": "We source, import and prepare cars from across Europe for Danish customers — with full transparency at every step.",
+      "primaryCta": "View cars",
+      "secondaryCta": "Contact us"
+    },
+    "intro": {
+      "title": "Your trusted automotive partner",
+      "body": "EU Autoline specialises in buying, selling, importing and exporting quality cars across Europe. We combine a sharp eye for quality with a workshop that ensures every car meets our standards — before it reaches you."
+    },
+    "featuredCars": {
+      "title": "Featured cars",
+      "subtitle": "A selection from our current inventory"
+    },
+    "services": {
+      "title": "Our services",
+      "subtitle": "From first purchase to ongoing service — we stay with the car all the way"
+    },
+    "whyChooseUs": {
+      "title": "Why choose EU Autoline",
+      "trustTitle": "Transparency",
+      "trustBody": "Full service history and documentation on every car — no surprises.",
+      "qualityTitle": "Quality assurance",
+      "qualityBody": "Every car undergoes a thorough inspection before it leaves our workshop.",
+      "experienceTitle": "Experience",
+      "experienceBody": "Years of experience with import and export across European markets.",
+      "serviceTitle": "Personal service",
+      "serviceBody": "We guide you all the way — from first enquiry to the keys being yours."
+    },
+    "contactCta": {
+      "title": "Ready to get started?",
+      "body": "Get in touch for a no-obligation chat about your next car, import, export or service.",
+      "cta": "Contact us today",
+      "orCall": "Or call us directly"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Our core services — built on expertise and reliability",
+    "import": {
+      "title": "Import",
+      "body": "We source and import quality cars from across Europe, handle paperwork and customs, and ensure the car meets local requirements — ready for registration.",
+      "point1": "Targeted search for your ideal car",
+      "point2": "Full handling of customs and documentation",
+      "point3": "Preparation for local registration"
+    },
+    "export": {
+      "title": "Export",
+      "body": "We assist with selling and exporting cars to the European market, with a focus on correct documentation and a smooth process for both seller and buyer.",
+      "point1": "Valuation and pricing",
+      "point2": "Access to buyers across Europe",
+      "point3": "Secure and documented transactions"
+    },
+    "repairs": {
+      "title": "Repairs & Service",
+      "body": "Our workshop performs service, repairs and preparation for all makes, keeping your car in top condition.",
+      "point1": "Service inspections for all makes",
+      "point2": "Repairs and preparation",
+      "point3": "Roadworthiness test coordination"
+    }
+  },
+  "cars": {
+    "title": "Our cars",
+    "subtitle": "Inspected, prepared and ready for delivery",
+    "filters": {
+      "makeLabel": "Make",
+      "bodyTypeLabel": "Body type",
+      "sortLabel": "Sort by",
+      "allMakes": "All makes",
+      "allBodyTypes": "All types",
+      "sortPriceAsc": "Price (low to high)",
+      "sortPriceDesc": "Price (high to low)",
+      "sortYearDesc": "Newest year"
+    },
+    "empty": "No cars match your filters right now."
+  },
+  "carDetail": {
+    "specsTitle": "Specifications",
+    "year": "Year",
+    "mileage": "Mileage",
+    "fuel": "Fuel",
+    "transmission": "Transmission",
+    "power": "Power",
+    "bodyType": "Body type",
+    "battery": "Battery",
+    "range": "Range",
+    "color": "Colour",
+    "charger": "Charger",
+    "yes": "Yes",
+    "no": "No",
+    "showImage": "Show image {current} of {total}"
+  },
+  "colors": {
+    "black": "Black",
+    "white": "White",
+    "grey": "Grey",
+    "silver": "Silver",
+    "blue": "Blue",
+    "red": "Red",
+    "green": "Green",
+    "brown": "Brown",
+    "beige": "Beige"
+  },
+  "fuelTypes": {
+    "petrol": "Petrol",
+    "diesel": "Diesel",
+    "electric": "Electric",
+    "hybrid": "Hybrid"
+  },
+  "transmissions": {
+    "automatic": "Automatic",
+    "manual": "Manual"
+  },
+  "bodyTypes": {
+    "sedan": "Sedan",
+    "suv": "SUV",
+    "estate": "Estate",
+    "coupe": "Coupe",
+    "hatchback": "Hatchback"
+  },
+  "about": {
+    "title": "About EU Autoline",
+    "subtitle": "Professional car dealership with a European outlook",
+    "body1": "EU Autoline was founded with a simple purpose: to make buying, selling, importing and exporting quality cars across Europe safe and straightforward.",
+    "body2": "We believe car dealing should be transparent and professional. That's why every car that passes through our workshop is quality-checked, and we're on hand to advise throughout the process — whether you're buying your next car or selling your current one.",
+    "body3": "Our team brings years of experience in the European car market and a solid network of partners that makes it possible to find exactly the car you're looking for."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We're ready to help",
+    "infoTitle": "Contact details",
+    "addressLabel": "Address",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "hoursLabel": "Opening hours",
+    "hoursDays": "Monday–Friday",
+    "cvrLabel": "Company reg. (CVR)",
+    "form": {
+      "title": "Send us a message",
+      "nameLabel": "Name",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone (optional)",
+      "messageLabel": "Message",
+      "submit": "Send message",
+      "nameRequired": "Please enter your name.",
+      "emailRequired": "Please enter a valid email address.",
+      "messageRequired": "Please enter a message."
+    }
+  },
+  "footer": {
+    "tagline": "Quality cars, imported and prepared with care.",
+    "navTitle": "Navigation",
+    "contactTitle": "Contact",
+    "hoursTitle": "Opening hours",
+    "hoursDays": "Monday–Friday",
+    "cvrLabel": "Company reg. (CVR)",
+    "rightsReserved": "All rights reserved."
+  }
+}

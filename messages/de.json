@@ -1,0 +1,181 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "cars": "Fahrzeuge",
+    "services": "Leistungen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "languageLabel": "Sprache"
+  },
+  "common": {
+    "viewDetails": "Details ansehen",
+    "seeAllCars": "Alle Fahrzeuge ansehen",
+    "contactUs": "Kontaktieren Sie uns",
+    "from": "Ab",
+    "backToCars": "Zurück zu den Fahrzeugen",
+    "enquire": "Zu diesem Fahrzeug anfragen",
+    "learnMore": "Mehr erfahren",
+    "featured": "Empfohlen"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "EU Autoline",
+      "titleLead": "Qualitätsfahrzeuge.",
+      "titleRest": "Importiert, aufbereitet und verkauft mit professioneller Sorgfalt.",
+      "subtitle": "Wir beschaffen, importieren und bereiten Fahrzeuge aus ganz Europa für dänische Kunden auf — mit voller Transparenz in jedem Schritt.",
+      "primaryCta": "Fahrzeuge ansehen",
+      "secondaryCta": "Kontakt aufnehmen"
+    },
+    "intro": {
+      "title": "Ihr vertrauenswürdiger Automobilpartner",
+      "body": "EU Autoline ist spezialisiert auf den An- und Verkauf sowie den Import und Export von Qualitätsfahrzeugen in ganz Europa. Wir verbinden ein geschultes Auge für Qualität mit einer Werkstatt, die sicherstellt, dass jedes Fahrzeug unseren Standards entspricht — bevor es bei Ihnen ankommt."
+    },
+    "featuredCars": {
+      "title": "Ausgewählte Fahrzeuge",
+      "subtitle": "Eine Auswahl aus unserem aktuellen Bestand"
+    },
+    "services": {
+      "title": "Unsere Leistungen",
+      "subtitle": "Vom ersten Kauf bis zum laufenden Service — wir begleiten Ihr Fahrzeug auf dem gesamten Weg"
+    },
+    "whyChooseUs": {
+      "title": "Warum EU Autoline",
+      "trustTitle": "Transparenz",
+      "trustBody": "Vollständige Servicehistorie und Dokumentation für jedes Fahrzeug — keine Überraschungen.",
+      "qualityTitle": "Qualitätssicherung",
+      "qualityBody": "Jedes Fahrzeug wird vor Verlassen unserer Werkstatt gründlich geprüft.",
+      "experienceTitle": "Erfahrung",
+      "experienceBody": "Langjährige Erfahrung im Import und Export auf europäischen Märkten.",
+      "serviceTitle": "Persönlicher Service",
+      "serviceBody": "Wir begleiten Sie von der ersten Anfrage bis zur Schlüsselübergabe."
+    },
+    "contactCta": {
+      "title": "Bereit loszulegen?",
+      "body": "Kontaktieren Sie uns unverbindlich zu Ihrem nächsten Fahrzeug, Import, Export oder Service.",
+      "cta": "Jetzt kontaktieren",
+      "orCall": "Oder rufen Sie uns direkt an"
+    }
+  },
+  "services": {
+    "title": "Leistungen",
+    "subtitle": "Unsere Kernleistungen — auf Fachwissen und Zuverlässigkeit aufgebaut",
+    "import": {
+      "title": "Import",
+      "body": "Wir suchen und importieren Qualitätsfahrzeuge aus ganz Europa, kümmern uns um Papierkram und Zoll und stellen sicher, dass das Fahrzeug die lokalen Anforderungen erfüllt — bereit zur Zulassung.",
+      "point1": "Gezielte Suche nach Ihrem Wunschfahrzeug",
+      "point2": "Vollständige Abwicklung von Zoll und Dokumentation",
+      "point3": "Vorbereitung zur Zulassung"
+    },
+    "export": {
+      "title": "Export",
+      "body": "Wir unterstützen beim Verkauf und Export von Fahrzeugen auf den europäischen Markt, mit Fokus auf korrekte Dokumentation und einen reibungslosen Ablauf für Verkäufer und Käufer.",
+      "point1": "Bewertung und Preisgestaltung",
+      "point2": "Zugang zu Käufern in ganz Europa",
+      "point3": "Sichere und dokumentierte Transaktionen"
+    },
+    "repairs": {
+      "title": "Reparatur & Service",
+      "body": "Unsere Werkstatt führt Service, Reparaturen und Aufbereitung für alle Marken durch, damit Ihr Fahrzeug stets in Topzustand bleibt.",
+      "point1": "Serviceinspektionen für alle Marken",
+      "point2": "Reparatur und Aufbereitung",
+      "point3": "Koordination der Hauptuntersuchung"
+    }
+  },
+  "cars": {
+    "title": "Unsere Fahrzeuge",
+    "subtitle": "Geprüft, aufbereitet und lieferbereit",
+    "filters": {
+      "makeLabel": "Marke",
+      "bodyTypeLabel": "Karosserie",
+      "sortLabel": "Sortieren nach",
+      "allMakes": "Alle Marken",
+      "allBodyTypes": "Alle Typen",
+      "sortPriceAsc": "Preis (aufsteigend)",
+      "sortPriceDesc": "Preis (absteigend)",
+      "sortYearDesc": "Neuestes Baujahr"
+    },
+    "empty": "Derzeit passen keine Fahrzeuge zu Ihren Filtern."
+  },
+  "carDetail": {
+    "specsTitle": "Technische Daten",
+    "year": "Baujahr",
+    "mileage": "Kilometerstand",
+    "fuel": "Kraftstoff",
+    "transmission": "Getriebe",
+    "power": "Leistung",
+    "bodyType": "Karosserie",
+    "battery": "Batterie",
+    "range": "Reichweite",
+    "color": "Farbe",
+    "charger": "Ladegerät",
+    "yes": "Ja",
+    "no": "Nein",
+    "showImage": "Bild {current} von {total} anzeigen"
+  },
+  "colors": {
+    "black": "Schwarz",
+    "white": "Weiß",
+    "grey": "Grau",
+    "silver": "Silber",
+    "blue": "Blau",
+    "red": "Rot",
+    "green": "Grün",
+    "brown": "Braun",
+    "beige": "Beige"
+  },
+  "fuelTypes": {
+    "petrol": "Benzin",
+    "diesel": "Diesel",
+    "electric": "Elektro",
+    "hybrid": "Hybrid"
+  },
+  "transmissions": {
+    "automatic": "Automatik",
+    "manual": "Schaltgetriebe"
+  },
+  "bodyTypes": {
+    "sedan": "Limousine",
+    "suv": "SUV",
+    "estate": "Kombi",
+    "coupe": "Coupé",
+    "hatchback": "Schrägheck"
+  },
+  "about": {
+    "title": "Über EU Autoline",
+    "subtitle": "Professioneller Autohandel mit europäischer Perspektive",
+    "body1": "EU Autoline wurde mit einem klaren Ziel gegründet: den An- und Verkauf sowie den Import und Export von Qualitätsfahrzeugen in ganz Europa sicher und unkompliziert zu machen.",
+    "body2": "Wir glauben, dass Autohandel transparent und professionell sein sollte. Deshalb wird jedes Fahrzeug, das unsere Werkstatt durchläuft, qualitätsgeprüft, und wir stehen Ihnen während des gesamten Prozesses beratend zur Seite — egal, ob Sie Ihr nächstes Fahrzeug kaufen oder Ihr aktuelles verkaufen.",
+    "body3": "Unser Team verfügt über langjährige Erfahrung auf dem europäischen Automobilmarkt und ein solides Partnernetzwerk, mit dem wir genau das Fahrzeug finden, das Sie suchen."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Wir helfen Ihnen gerne weiter",
+    "infoTitle": "Kontaktdaten",
+    "addressLabel": "Adresse",
+    "phoneLabel": "Telefon",
+    "emailLabel": "E-Mail",
+    "hoursLabel": "Öffnungszeiten",
+    "hoursDays": "Montag–Freitag",
+    "cvrLabel": "Handelsregister-Nr. (CVR)",
+    "form": {
+      "title": "Schreiben Sie uns",
+      "nameLabel": "Name",
+      "emailLabel": "E-Mail",
+      "phoneLabel": "Telefon (optional)",
+      "messageLabel": "Nachricht",
+      "submit": "Nachricht senden",
+      "nameRequired": "Bitte geben Sie Ihren Namen ein.",
+      "emailRequired": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+      "messageRequired": "Bitte geben Sie eine Nachricht ein."
+    }
+  },
+  "footer": {
+    "tagline": "Qualitätsfahrzeuge, importiert und mit Sorgfalt aufbereitet.",
+    "navTitle": "Navigation",
+    "contactTitle": "Kontakt",
+    "hoursTitle": "Öffnungszeiten",
+    "hoursDays": "Montag–Freitag",
+    "cvrLabel": "Handelsregister-Nr. (CVR)",
+    "rightsReserved": "Alle Rechte vorbehalten."
+  }
+}

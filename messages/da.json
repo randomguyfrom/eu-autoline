@@ -1,0 +1,181 @@
+{
+  "nav": {
+    "home": "Forside",
+    "cars": "Biler",
+    "services": "Ydelser",
+    "about": "Om os",
+    "contact": "Kontakt",
+    "languageLabel": "Sprog"
+  },
+  "common": {
+    "viewDetails": "Se detaljer",
+    "seeAllCars": "Se alle biler",
+    "contactUs": "Kontakt os",
+    "from": "Fra",
+    "backToCars": "Tilbage til biler",
+    "enquire": "Forespørg på denne bil",
+    "learnMore": "Læs mere",
+    "featured": "Udvalgt"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "EU Autoline",
+      "titleLead": "Kvalitetsbiler.",
+      "titleRest": "Importeret, klargjort og solgt med professionel omhu.",
+      "subtitle": "Vi finder, importerer og klargør biler fra hele Europa til danske kunder — med fuld gennemsigtighed i hvert trin.",
+      "primaryCta": "Se biler",
+      "secondaryCta": "Kontakt os"
+    },
+    "intro": {
+      "title": "Din betroede bilpartner",
+      "body": "EU Autoline er specialister i køb, salg, import og eksport af kvalitetsbiler på tværs af Europa. Vi kombinerer et skarpt øje for kvalitet med et værksted, der sikrer, at hver bil lever op til vores standarder — før den når dig."
+    },
+    "featuredCars": {
+      "title": "Udvalgte biler",
+      "subtitle": "Et udpluk af vores aktuelle lager"
+    },
+    "services": {
+      "title": "Vores ydelser",
+      "subtitle": "Fra det første køb til løbende service — vi følger bilen hele vejen"
+    },
+    "whyChooseUs": {
+      "title": "Hvorfor vælge EU Autoline",
+      "trustTitle": "Gennemsigtighed",
+      "trustBody": "Fuld servicehistorik og dokumentation på hver bil — ingen overraskelser.",
+      "qualityTitle": "Kvalitetssikring",
+      "qualityBody": "Hver bil gennemgår et grundigt eftersyn, før den forlader vores værksted.",
+      "experienceTitle": "Erfaring",
+      "experienceBody": "Mange års erfaring med import og eksport på tværs af europæiske markeder.",
+      "serviceTitle": "Personlig service",
+      "serviceBody": "Vi rådgiver dig hele vejen — fra første henvendelse til nøglen er din."
+    },
+    "contactCta": {
+      "title": "Klar til at komme i gang?",
+      "body": "Kontakt os for en uforpligtende snak om din næste bil, import, eksport eller service.",
+      "cta": "Kontakt os i dag",
+      "orCall": "Eller ring til os direkte"
+    }
+  },
+  "services": {
+    "title": "Ydelser",
+    "subtitle": "Vores kerneydelser — bygget på faglighed og pålidelighed",
+    "import": {
+      "title": "Import",
+      "body": "Vi finder og importerer kvalitetsbiler fra hele Europa, håndterer papirarbejde og told, og sikrer, at bilen lever op til danske krav — klar til indregistrering.",
+      "point1": "Målrettet søgning efter din ønskebil",
+      "point2": "Fuld håndtering af told og dokumentation",
+      "point3": "Klargøring til dansk indregistrering"
+    },
+    "export": {
+      "title": "Export",
+      "body": "Vi hjælper med salg og eksport af biler til det europæiske marked, med fokus på korrekt dokumentation og en gnidningsfri proces for både sælger og køber.",
+      "point1": "Vurdering og prissætning",
+      "point2": "Formidling til købere i hele Europa",
+      "point3": "Sikker og dokumenteret handel"
+    },
+    "repairs": {
+      "title": "Reparation & Service",
+      "body": "Vores værksted udfører service, reparation og klargøring af alle mærker, så din bil altid er i topstand.",
+      "point1": "Serviceeftersyn for alle mærker",
+      "point2": "Reparation og klargøring",
+      "point3": "Synskoordinering"
+    }
+  },
+  "cars": {
+    "title": "Vores biler",
+    "subtitle": "Gennemgået, klargjort og klar til levering",
+    "filters": {
+      "makeLabel": "Mærke",
+      "bodyTypeLabel": "Karrosseri",
+      "sortLabel": "Sortér efter",
+      "allMakes": "Alle mærker",
+      "allBodyTypes": "Alle typer",
+      "sortPriceAsc": "Pris (lav til høj)",
+      "sortPriceDesc": "Pris (høj til lav)",
+      "sortYearDesc": "Nyeste årgang"
+    },
+    "empty": "Ingen biler matcher dine filtre lige nu."
+  },
+  "carDetail": {
+    "specsTitle": "Specifikationer",
+    "year": "Årgang",
+    "mileage": "Kilometertal",
+    "fuel": "Brændstof",
+    "transmission": "Gearkasse",
+    "power": "Effekt",
+    "bodyType": "Karrosseri",
+    "battery": "Batteri",
+    "range": "Rækkevidde",
+    "color": "Farve",
+    "charger": "Oplader",
+    "yes": "Ja",
+    "no": "Nej",
+    "showImage": "Vis billede {current} af {total}"
+  },
+  "colors": {
+    "black": "Sort",
+    "white": "Hvid",
+    "grey": "Grå",
+    "silver": "Sølv",
+    "blue": "Blå",
+    "red": "Rød",
+    "green": "Grøn",
+    "brown": "Brun",
+    "beige": "Beige"
+  },
+  "fuelTypes": {
+    "petrol": "Benzin",
+    "diesel": "Diesel",
+    "electric": "El",
+    "hybrid": "Hybrid"
+  },
+  "transmissions": {
+    "automatic": "Automatgear",
+    "manual": "Manuelt gear"
+  },
+  "bodyTypes": {
+    "sedan": "Sedan",
+    "suv": "SUV",
+    "estate": "Stationcar",
+    "coupe": "Coupé",
+    "hatchback": "Hatchback"
+  },
+  "about": {
+    "title": "Om EU Autoline",
+    "subtitle": "Professionel bilhandel med et europæisk udsyn",
+    "body1": "EU Autoline blev grundlagt med et enkelt formål: at gøre det trygt og enkelt at købe, sælge, importere og eksportere kvalitetsbiler på tværs af Europa.",
+    "body2": "Vi tror på, at bilhandel skal være gennemsigtig og professionel. Derfor kvalitetssikrer vi hver bil, der passerer gennem vores værksted, og vi står til rådighed med rådgivning gennem hele processen — uanset om du køber din næste bil eller sælger din nuværende.",
+    "body3": "Vores team har mange års erfaring med det europæiske bilmarked og et solidt netværk af partnere, der gør det muligt at finde præcis den bil, du leder efter."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Vi står klar til at hjælpe dig",
+    "infoTitle": "Kontaktoplysninger",
+    "addressLabel": "Adresse",
+    "phoneLabel": "Telefon",
+    "emailLabel": "Email",
+    "hoursLabel": "Åbningstider",
+    "hoursDays": "Mandag–fredag",
+    "cvrLabel": "CVR",
+    "form": {
+      "title": "Skriv til os",
+      "nameLabel": "Navn",
+      "emailLabel": "Email",
+      "phoneLabel": "Telefon (valgfrit)",
+      "messageLabel": "Besked",
+      "submit": "Send besked",
+      "nameRequired": "Indtast venligst dit navn.",
+      "emailRequired": "Indtast venligst en gyldig email.",
+      "messageRequired": "Skriv venligst en besked."
+    }
+  },
+  "footer": {
+    "tagline": "Kvalitetsbiler, importeret og klargjort med omhu.",
+    "navTitle": "Navigation",
+    "contactTitle": "Kontakt",
+    "hoursTitle": "Åbningstider",
+    "hoursDays": "Mandag–fredag",
+    "cvrLabel": "CVR",
+    "rightsReserved": "Alle rettigheder forbeholdes."
+  }
+}
